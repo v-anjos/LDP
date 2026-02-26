@@ -9,7 +9,7 @@ int main(){
 	
 	volume = (4/3.0)*pi*(r*r*r);
 	
-	printf("VOLUME= %.3f\n", volume);	
+	printf("VOLUME = %.3f\n", volume);	
 	
   return 0;
 }
