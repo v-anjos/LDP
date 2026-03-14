@@ -1,4 +1,4 @@
-# 💻 Beecrowd Algorithm Solutions
+# 📚 Beecrowd Solutions
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Platform](https://img.shields.io/badge/platform-beecrowd-orange)
@@ -17,3 +17,4 @@ Este projeto faz parte do meu processo de desenvolvimento em:
 ---
 
 # 📊 Progresso
+![Problems Solved](https://img.shields.io/github/languages/code-size/v-anjos/LDPI)
