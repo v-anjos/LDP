@@ -1,9 +1,7 @@
-# 💻 Beecrowd Algorithm Solutions
+# 💻 Soluções BEECROWD
 
-![Language](https://img.shields.io/badge/language-C-blue)
-![Platform](https://img.shields.io/badge/platform-beecrowd-orange)
-![Focus](https://img.shields.io/badge/focus-algorithms-brightgreen)
-![Status](https://img.shields.io/badge/status-learning-yellow)
+![Language](https://img.shields.io/badge/Linguagem-C-blue)
+![Platform](https://img.shields.io/badge/Plataforma-Beecrowd-orange)
 
 Repositório dedicado à resolução de problemas da plataforma **Beecrowd** utilizando a linguagem **C**.
 
