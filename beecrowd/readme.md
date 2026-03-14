@@ -18,3 +18,4 @@ Este projeto faz parte do meu processo de desenvolvimento em:
 
 # 📊 Progresso
 ![Problems Solved](https://img.shields.io/badge/problems--solved-25-brightgreen)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-anjos&theme=github-dark)
