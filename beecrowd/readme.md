@@ -50,6 +50,6 @@ Este projeto acompanha minha evolução em:
 | 1037 | Intervalo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Intervalo.c) |
 | 1038 | Lanche | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Lanche.c) |
 | 1041 | Coordenadas de um Ponto | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Coordenadas%20de%20um%20Ponto.c) |
-| 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Coordenadas%20de%20um%20Ponto.c) |
+| 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
 
