@@ -48,5 +48,6 @@ Este projeto acompanha minha evolução em:
 | 1042 | Sort Simples| Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Sort%20Simples.c) |
 | 1043 | Triângulo| Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tri%C3%A2ngulo.c) |
 | 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo.c) |
+| 1047 | Tempo de Jogo com minutos | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo%20com%20Minutos.c)
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
 
