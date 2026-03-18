@@ -16,7 +16,7 @@ Este projeto acompanha minha evolução em:
 
 # 📊 Estatísticas do Repositório
 
-### 🧠 Problemas resolvidos 28
+### 🧠 Problemas resolvidos 29
 
 ---
 ## 📑 Problemas Resolvidos
