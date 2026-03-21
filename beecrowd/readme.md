@@ -50,6 +50,7 @@ Este projeto acompanha minha evolução em:
 | 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo.c) |
 | 1047 | Tempo de Jogo com minutos | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo%20com%20Minutos.c)
 | 1049 | Animal | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/animal.c) |
+| 1050 | DDD | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/DDD.c) |
 | 1061 | Tempo de um evento | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Tempo%20de%20um%20Evento.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
 
