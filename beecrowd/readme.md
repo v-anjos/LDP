@@ -51,6 +51,7 @@ Este projeto acompanha minha evolução em:
 | 1045 | Tipos de Triangulo | Iniciante| Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Tipos%20de%20Triangulo.c) |
 | 1046 | Tempo de Jogo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo.c) |
 | 1047 | Tempo de Jogo com minutos | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista3/Tempo%20de%20Jogo%20com%20Minutos.c)
+| 1048 | Aumento de Salario | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Aumento%20de%20salario.C) |
 | 1049 | Animal | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/animal.c) |
 | 1050 | DDD | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista3/DDD.c) |
 | 1059 | Numeros Pares | Iniciante | Repetção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/N%C3%BAmeros%20Pares.c) |
