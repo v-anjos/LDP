@@ -59,5 +59,11 @@ Este projeto acompanha minha evolução em:
 | 1061 | Tempo de um evento | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Tempo%20de%20um%20Evento.c) |
 | 1065 | Pares entre Cinco Números | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Pares%20entre%20Cinco%20N%C3%BAmeros.c) |
 | 1066 | Pares, Ímpares, Positivos e Negativos| Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Pares%2C%20%C3%8Dmpares%2C%20Positivos%20e%20Negativos.c) |
+| 1071 | Soma de Impares Consecutivos I | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Soma%20de%20Impares%20Consecutivos%20I.c) |
+| 1080 | Maior e Posição | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Maior%20e%20Posi%C3%A7%C3%A3o.c) |
+| 1145 | Sequência Lógica 2 | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Sequ%C3%AAncia%20L%C3%B3gica%202.c) |
+| 1146 | Sequências Crescentes | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Sequ%C3%AAncias%20Crescentes.c) |
 | 1153 | Fatorial Simples | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/Fatorial%20Simples.c) |
+| 1165 | Número Primo | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/N%C3%BAmero%20Primo.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/identificando%20o%20ch%C3%A1.c) |
+| xxx | xxxx | xxxx | xxxx | [Ver]() |
