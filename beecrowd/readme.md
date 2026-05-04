@@ -39,6 +39,7 @@ Este projeto acompanha minha evolução em:
 | 1019 | Conversão de Tempo | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Convers%C3%A3o%20de%20Tempo.c) |
 | 1020 | Idade em Dias | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/idade%20em%20dias.c) |
 | 1021 | Notas e Moedas | Iniciante | Sequencial | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Notas%20e%20Moedas.c) |
+| 1026 | xxxx | AD-HOC | Xor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Carrega%20ou%20n%C3%A3o%20Carrega%3F.c) |
 | 1035 | Teste de Seleção 1 | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/Teste%20de%20Sele%C3%A7%C3%A3o%201.c) |
 | 1036 | Fórmula de Bhaskara | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/lista2/F%C3%B3rmula%20de%20Bhaskara.c) |
 | 1037 | Intervalo | Iniciante | Seleção | [Ver](https://github.com/v-anjos/LDPI/blob/main/beecrowd/Intervalo.c) |
