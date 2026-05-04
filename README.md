@@ -43,8 +43,7 @@ Os desafios são baseados principalmente na plataforma **Beecrowd**, amplamente 
 │   └── 📂 semlista/
 │
 ├── 📂 exemplos/
-│   └── (arquivos .c)
-│
+│   
 └── 📄 README.md
 ```
 
