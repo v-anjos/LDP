@@ -70,6 +70,7 @@ Este projeto acompanha minha evolução em:
 | 1146 | Sequências Crescentes | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Sequ%C3%AAncias%20Crescentes.c) |
 | 1153 | Fatorial Simples | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Fatorial%20Simples.c) |
 | 1165 | Número Primo | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/N%C3%BAmero%20Primo.c) |
+| 1176 | Fibonacci em Vetor | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Fibonacci%20em%20Vetor.c) |
 | 1178 | Preenchimento de Vetor III | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Preenchimento%20de%20Vetor%20III.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Identificando%20o%20ch%C3%A1.c) |
 | xxx | xxxx | xxxx | xxxx | [Ver]() |
