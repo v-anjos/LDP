@@ -70,7 +70,13 @@ Este projeto acompanha minha evolução em:
 | 1146 | Sequências Crescentes | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/Sequ%C3%AAncias%20Crescentes.c) |
 | 1153 | Fatorial Simples | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Fatorial%20Simples.c) |
 | 1165 | Número Primo | Iniciante | Repetição | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista4/N%C3%BAmero%20Primo.c) |
+| 1172 | Substituição em Vetor I | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.c) |
 | 1176 | Fibonacci em Vetor | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Fibonacci%20em%20Vetor.c) |
+| 1177 | Preenchimento de Vetor II | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Preenchimento%20de%20Vetor%20II.c) |
 | 1178 | Preenchimento de Vetor III | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Preenchimento%20de%20Vetor%20III.c) |
+| 1181 | Linha na Matriz | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Linha%20na%20Matriz.c) |
+| 1182 | Coluna na Matriz | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Coluna%20na%20Matriz.c) |
+| 1478 | Matriz Quadrada II | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Matriz%20Quadrada%20II.c) |
+| 1827 | Matriz Quadrada IV | Iniciante | Vetor | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/lista5/Matriz%20Quadrada%20IV.c) |
 | 2006 | Identificando o Chá | Iniciante | Desconhecido | [Ver](https://github.com/v-anjos/LDP/blob/main/beecrowd/semlista/Identificando%20o%20ch%C3%A1.c) |
 | xxx | xxxx | xxxx | xxxx | [Ver]() |
