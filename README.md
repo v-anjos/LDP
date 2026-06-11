@@ -85,3 +85,5 @@ Este repositório é atualizado continuamente conforme novos desafios são resol
 ## ⭐ Destaque
 
 > “Resolver problemas é a habilidade — programar é a ferramenta.”
+
+**trabalho LDP -Fazer um jogo(Show do milhão) usando todo o conteudo da disciplina. 
