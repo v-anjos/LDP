@@ -7,10 +7,6 @@
 #define MAX_PERGUNTAS 15
 #define MAX_JOGADORES 10
 
-//==============================
-// STRUCT JOGADOR
-//==============================
-
 typedef struct{
 
     char nome[50];
@@ -22,10 +18,6 @@ typedef struct{
     int erros;
 
 }Jogador;
-
-//==============================
-// STRUCT PERGUNTA
-//==============================
 
 typedef struct{
 
