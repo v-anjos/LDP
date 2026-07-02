@@ -566,23 +566,6 @@ void jogar(){
 
 }
 
-//historico
-
-void mostrarHistorico(int quantidade){
-
-    printf("\n====================================\n");
-    printf("HISTORICO DA PARTIDA\n");
-    printf("====================================\n");
-
-    for(int i=0;i<quantidade;i++){
-
-        printf("Pergunta %d -> %s\n",
-                i+1,
-                historico[i]);
-    }
-
-}
-
 //ordem placar
 void ordenarRanking(){
 
