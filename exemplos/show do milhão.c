@@ -81,7 +81,7 @@ Pergunta perguntas[MAX_PERGUNTAS]={
 },
 
 {
-"Qual comando lê dados?",
+"Qual comando le dados?",
 "scanf",
 "printf",
 "for",
@@ -147,7 +147,7 @@ Pergunta perguntas[MAX_PERGUNTAS]={
 },
 
 {
-"Qual biblioteca gera números aleatórios?",
+"Qual biblioteca gera numeros aleatorios?",
 "math.h",
 "stdlib.h",
 "string.h",
@@ -169,7 +169,7 @@ Pergunta perguntas[MAX_PERGUNTAS]={
 },
 
 {
-"Qual função converte para maiúscula?",
+"Qual função converte para maiuscula?",
 "toupper",
 "tolower",
 "strcmp",
